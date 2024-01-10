@@ -1,0 +1,1 @@
+![screencapture-127-0-0-1-3000-githubtask-githubtask6-index-html-2024-01-10-09_18_15](https://github.com/kanji2001/Random-number-generator-using-js/assets/153625398/3886b890-379b-438c-a62e-d5ff0f588d99)
